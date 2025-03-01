@@ -1,6 +1,7 @@
 # Time-Energy Model (TEM) reference implementation
 
 This README explains how to use the simplified version of the Time-Energy Model (TEM) selective time series forecasting framework.
+Last updated: 2025-02-28
 
 ## Overview
 
